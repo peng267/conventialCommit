@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## 2.6.0 (2022-03-08)
+
+
+### Features
+
+* **test:** first commit ([4e3420c](https://github.com/peng267/conventialCommit/commit/4e3420cf29e8dd531ad0b050bea66aa21df08635))
+
 ## [2.5.0](https://github.com/zuoxiaobai/commitizen-practice-demo/compare/v2.4.0...v2.5.0) (2021-10-17)
 
 
